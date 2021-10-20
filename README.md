@@ -35,3 +35,7 @@ HAD 	 7
 INTO 	 7
 TALK 	 6
 ON 	 6
+
+## Testing
+For testing purposes, grab sample text from https://www.gutenberg.org/ebooks/66572 to form your txt file. 
+The Project Gutenberg eBook of The Voyage of Vanishing Men, by Stanley Mullen is a good starting point.
